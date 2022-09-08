@@ -18,6 +18,7 @@
 #include <thread>
 #include <mutex>
 #include <set>
+#include <fstream>
 #include <deque>
 #include <array>
 #include <bitset>
